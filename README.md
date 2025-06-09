@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m **[Sumi / sumimi12]**
 
-<!--
-**sumimi12/sumimi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+Here’s a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 **Profession / What I Do**
+*例：Software Engineer / Web Developer / Data Scientist など*
+
+---
+
+## 🛠️ **Top Skills**
+- スキル1
+- スキル2
+- スキル3
+
+---
+
+## 🌟 **Favorite Projects**
+| Project Name | Description | Link |
+|:------------:|:------------|:-----|
+| プロジェクト1 | プロジェクトの簡単な説明 | [GitHubリンク](#) |
+| プロジェクト2 | プロジェクトの簡単な説明 | [GitHubリンク](#) |
+
+---
+
+## 📫 **Connect with Me**
+- [Twitter](#)
+- [LinkedIn](#)
+- [Other SNS or Blog](#)
+
+---
+
+## 📝 **More About Me**
+- 趣味や興味を書いてもOK
+- 好きな技術や将来やりたいこと など
+
+---
